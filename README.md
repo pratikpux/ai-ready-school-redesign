@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Ready School – Homepage Redesign
 
-## Getting Started
+## Audit Summary
 
-First, run the development server:
+While reviewing the current website, I noticed a few key usability and clarity issues:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- The navigation feels slightly overloaded and does not guide the user toward a clear primary action.
+- The hero section does not immediately communicate what AI Ready School offers and why it matters.
+- The product ecosystem (Cypher, Morpheus, Zion, etc.) feels confusing without clear grouping or explanation.
+- There is a lack of trust signals such as testimonials, metrics, or school logos.
+- The call-to-action flow is not strong or consistent across sections.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What I Focused On
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Given the limited time, I focused on improving the most important sections:
 
-## Learn More
+- Simplified the navigation and added a clear “Book Demo” primary action.
+- Redesigned the hero section with a clear value proposition and strong visual hierarchy.
+- Structured the product section to make offerings easier to scan and understand.
+- Added a trust + CTA section to improve credibility and conversion.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## If I Had More Time
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Add real testimonials and partner school logos for stronger trust.
+- Improve product storytelling with icons and visual differentiation.
+- Introduce subtle animations and better interaction feedback.
